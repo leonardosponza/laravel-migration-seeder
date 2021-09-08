@@ -24,4 +24,5 @@ class TripsTableSeeder extends Seeder
             $trip->save();
         }
         
+    }  
 }
